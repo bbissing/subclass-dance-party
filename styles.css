@@ -20,8 +20,17 @@ body, a:link, a:visited, a:active{
 .title{
   background-color: #777;
 }
+
+.batman{
+  position:absolute;
+  background: url("https://i.ebayimg.com/images/g/yyEAAOSw~QNiQkrH/s-l500.jpg");
+  background-size: 100px 100px;
+  width: 100px;
+  height: 100px;
+}
+
 .dancer{
-  border:10px solid red;
+  border:10px solid blue;
   border-radius:10px;
   position:absolute;
 }
